@@ -1,22 +1,10 @@
 {
-  "event": [
-    {
-      "title": "Do the epic",
-      "description": "Book was writen by Ankir wariko",
-      "location": "Hyderbad",
-      "id": 1
-    },
-    {
-      "title": "HI",
-      "description": "Hello",
-      "location": "How are you",
-      "id": 2
-    },
-    {
-      "title": "Swaroop",
-      "description": "maddu",
-      "location": "Jangareddy Gudem",
-      "id": 3
-    }
-  ]
-}
+    "events": [
+      {
+        "id": 1,
+        "title": "Angular Workshop",
+        "description": "Learn Angular from scratch",
+        "location": "Hyderabad"
+      }
+    ]
+  }
